@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleSquares", "MathModeling\MiddleSquares.csproj", "{BBDD94BE-DB1E-400A-8446-78469D30C0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication", "Multiplication\Multiplication.csproj", "{13A35DEE-88A8-42F4-938C-90B9B9706217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDD94BE-DB1E-400A-8446-78469D30C0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD94BE-DB1E-400A-8446-78469D30C0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD94BE-DB1E-400A-8446-78469D30C0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD94BE-DB1E-400A-8446-78469D30C0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A35DEE-88A8-42F4-938C-90B9B9706217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A35DEE-88A8-42F4-938C-90B9B9706217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A35DEE-88A8-42F4-938C-90B9B9706217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A35DEE-88A8-42F4-938C-90B9B9706217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A214738D-9C0D-488B-A297-06E4AA7A103D}
+	EndGlobalSection
+EndGlobal
